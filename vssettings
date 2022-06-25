@@ -1,0 +1,68 @@
+{
+  "dart.warnWhenEditingFilesOutsideWorkspace": false,
+  "editor.formatOnSave": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "todo-tree.tree.showScanModeButton": false,
+  "[dart]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "files.autoSave": "afterDelay",
+  "editor.fontSize": 16,
+  "dart.showInspectorNotificationsForWidgetErrors": false,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "dart.openDevTools": "flutter",
+  "gitlens.advanced.messages": {
+    "suppressGitMissingWarning": true
+  },
+  "dart.debugExternalPackageLibraries": true,
+  "dart.debugSdkLibraries": false,
+  "workbench.colorTheme": "ReUI II Dark",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "cSpell.enableFiletypes": ["dart"],
+  "cSpell.userWords": [
+    "appwrite",
+    "Fluttertoast",
+    "formkey",
+    "Getx",
+    "initialise",
+    "initialised",
+    "middlewares",
+    "mohesu",
+    "prefs",
+    "razorpay",
+    "riverpod",
+    "Sewa",
+    "subloc",
+    "toggleable",
+    "trulawyer",
+    "unfocus",
+    "vsync"
+  ],
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "thunder-client.codeSnippetLanguage": "dart",
+  "editor.cursorBlinking": "expand",
+  "dart.previewFlutterUiGuides": true,
+  "dart.previewFlutterUiGuidesCustomTracking": true,
+  "editor.guides.indentation": false,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": false,
+    "markdown": false
+  }
+}
